@@ -8,9 +8,21 @@
 
 h1, h2 {
     margin-bottom: 3rem;
+    background-color: green;
+    color: white;
+    border: 2px solid rgb(0, 61, 0) ;
+    border-top-right-radius: 40px;
+    
+    
 }
 
 p {
     margin-bottom: 1rem;
+    
+    
 }
+body {
+    background-color: rgb(80, 156, 28);
+    color: rgb(0, 0, 0);
 
+}
